@@ -1,0 +1,24 @@
+body {
+    background-image: url("http://www.vanessametonini.com.br/imersaocss/a1/img/fundo.jpg");
+    font-family: Arial;
+}
+
+.menu {
+    background-color: white;
+}
+
+.menu ul {
+    display: flex;
+}
+
+.menu li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
